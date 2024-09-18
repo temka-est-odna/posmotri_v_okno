@@ -99,7 +99,7 @@ ol {
 .content__list {
   position: relative;
   min-width: 399px;
-  min-height: 298px;
+  height: 298px;
   overflow: auto;
 }
 
